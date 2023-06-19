@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: cursive, monospace;
+    color: orangered;
+    text-align: left;
+
+}
+
+h2{
+    font-family: monospace;
+    color: orangered;
+
+}
+
+.p1{
+    font-family: cursive;
+    color: burlywood;
+    font-size: 18px;
+}
+
+ul,ol{
+    font-family: cursive;
+    font-size: 18px;  
+    color: burlywood;
+
+}
+
+.anchor-link a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
