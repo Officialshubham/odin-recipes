@@ -1,0 +1,37 @@
+
+body{
+    background-color: black;
+}
+h1{
+    font-family: cursive, monospace, sans-serif;
+    color: burlywood;
+    text-align: center;
+    font-size: 75px;
+}
+
+ul{
+    font-family: monospace;
+    font-size: 54px;  
+    text-align: left;
+    list-style-type: none;
+    display: table;
+    margin: 0 auto;
+}
+
+
+a {
+    text-decoration: none;
+    color: brown;
+}
+
+.container {
+    width: fit-content;
+    height: 600px;
+    background-color: rosybrown;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
